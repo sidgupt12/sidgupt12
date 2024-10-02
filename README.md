@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06a22446366801.5851795421436.gif)]
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06a22446366801.5851795421436.gif)
 
 
 <h1 align="center">Hey✌🏻, I am Siddhant Gupta</h1>
