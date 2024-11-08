@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://twitter.com/s0lomate" target="blank"><img src="https://img.shields.io/twitter/follow/s0lomate?logo=twitter&style=for-the-badge" alt="s0lomate" /></a> </p>
 
-- 🔭 I’m currently working on [Krisanjh(only have designs for now)](https://www.figma.com/proto/BkZ6PzueVhkV7IlKFtr7zm/SIH?node-id=236-40&t=jfFB9A3muIlXyP1V-0&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1)
+- 🔭 Currently writing my own virtual machine from scratch [Yes I have no life] (https://github.com/sidgupt12/sidVM)
 
 - 🌱 I’m currently learning **GIN , VIM**
 
