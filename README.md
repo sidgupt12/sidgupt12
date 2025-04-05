@@ -14,9 +14,9 @@
 
 <p align="left"> <a href="https://twitter.com/s0lomate" target="blank"><img src="https://img.shields.io/twitter/follow/s0lomate?logo=twitter&style=for-the-badge" alt="s0lomate" /></a> </p>
 
-- 🔭 Currently writing my own virtual machine from scratch [Yes I have no life] (https://github.com/sidgupt12/sidVM)
+- 🔭 Currently writing forgetAI (I need it) (https://github.com/sidgupt12/forgetai and https://github.com/sidgupt12/forgetai-backend)
 
-- 🌱 I’m currently learning **GIN , VIM**
+- 🌱 I’m currently learning the working of Model Conext Protocol
 
 - 🤝 I’m looking for help with **Go**
 
