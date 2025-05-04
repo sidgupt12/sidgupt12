@@ -1,9 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06a22446366801.5851795421436.gif)
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FFFFFF&background=4A6A4E&width=600&height=50&lines=Hey✌🏻%2C+I+am+Siddhant+Gupta&center=true&vCenter=true&padding=5%3B10&borderRadius=10" alt="Typing SVG" />
-</p>
+
 <h3 align="center">Degenerate Gopher</h3>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/J6ZjzXz.gif">
 
