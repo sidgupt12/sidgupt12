@@ -1,44 +1,109 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06a22446366801.5851795421436.gif)
+<h1 align="center">sid.</h1>
 
-
-
-<h3 align="center">Degenerate Gopher</h3>
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/J6ZjzXz.gif">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sidgupt12&label=Profile%20views&color=0e75b6&style=flat" alt="sidgupt12" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidgupt12" alt="sidgupt12" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/s0lomate" target="blank"><img src="https://img.shields.io/twitter/follow/s0lomate?logo=twitter&style=for-the-badge" alt="s0lomate" /></a> </p>
-
-- 🔭 Currently writing forgetAI (I need it) (https://github.com/sidgupt12/forgetai and https://github.com/sidgupt12/forgetai-backend)
-
-- 🌱 I’m currently learning the working of Model Conext Protocol
-
-- 🤝 I’m looking for help with **Go**
-
-- 👨‍💻 All of my projects are available on [github.com/sidgupt12](github.com/sidgupt12)
-
-- 💬 Ask me about **How to make your life miserable**
-
-- 📫 How to reach me **sidgupt12@gmail.com**
-
-- ⚡ Fun fact **I am too lazy to even make my own resume(Latex is soo boring)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/s0lomate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s0lomate" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/siddhant-gupta-357184251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhant-gupta-357184251" height="30" width="40" /></a>
-<a href="https://instagram.com/sidgupt12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sidgupt12" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/siddhantgupta12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sidgupt12" height="30" width="40" /></a>
+<p align="center">
+  <b>backend engineer. building tools. opening too many tabs.</b>
+  <br />
+  <sub>the side quests are getting suspiciously ambitious.</sub>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://siddhant.cc"><b>siddhant.cc ↗</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/sidgupt12/nyx"><b>nyx ↗</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:sidgupt12@gmail.com"><b>say hey ↗</b></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidgupt12&show_icons=true&locale=en&layout=compact" alt="sidgupt12" /></p>
+<br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sidgupt12&show_icons=true&locale=en" alt="sidgupt12" /></p>
+<p align="center">
+  <a href="https://tenor.com/view/batman-nice-try-nice-try-penguin-gif-5388052">
+    <img src="https://media1.tenor.com/m/m5JZeQPWw2oAAAAd/batman-nice-try.gif" width="320" alt="Batman typing at the Batcomputer" />
+  </a>
+  <br />
+  <sub>the batcomputer budget went into tokens.</sub>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidgupt12&" alt="sidgupt12" /></p>
+<br />
+
+### ☾ &nbsp; after hours
+
+software engineer at **Info Edge**. backend systems and AI tooling.
+
+i like knowing how things work.
+unfortunately, “i could build that” keeps turning into a commitment.
+
+### ↳ &nbsp; currently building: [nyx](https://github.com/sidgupt12/nyx)
+
+my own **Codex controller**.
+
+using the tool somehow turned into building another tool around it.
+anyway, we're here now.
+
+<a href="https://github.com/sidgupt12/nyx">
+  <img src="https://img.shields.io/badge/NYX-follow_the_build-c4b5fd?style=for-the-badge&labelColor=181825&logo=github&logoColor=c4b5fd" alt="Nyx — follow the build" />
+</a>
+
+<br />
+<br />
+
+### ⌁ &nbsp; training arc
+
+<img align="right" src="https://media.giphy.com/media/l3vRmVv5P01I5NDAA/giphy.gif" width="180" alt="Ed from Cowboy Bebop hacking" />
+
+learning how to **build a model from scratch**.
+
+still learning. haven't built one yet.
+just very invested in finding out what’s actually going on in there.
+
+the math has hands.
+
+<br clear="both" />
+
+### ⊹ &nbsp; things i reach for
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,java,py,ts,redis,docker&theme=dark&perline=6" alt="Go, Java, Python, TypeScript, Redis, Docker" />
+  </a>
+</p>
+
+<sub>the usual suspects. the rest depends on what i'm building.</sub>
+
+<br />
+<br />
+
+### ▦ &nbsp; activity map
+
+most of my day-to-day commits live on my org's **GitLab**.
+GitHub gets the personal builds and late-night experiments.
+
+<p align="center">
+  <a href="https://github.com/sidgupt12">
+    <img src="https://ghchart.rshah.org/c4b5fd/sidgupt12" width="100%" alt="Siddhant's GitHub contribution calendar" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>different remote. still shipping.</sub>
+</p>
+
+<br />
+
+---
+
+<p align="center">
+  <a href="https://siddhant.cc">website</a>
+  &nbsp; / &nbsp;
+  <a href="https://x.com/s0lomate">x</a>
+  &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/siddhantgupta12">linkedin</a>
+  &nbsp; / &nbsp;
+  <a href="https://leetcode.com/u/sidgupt12/">leetcode</a>
+  &nbsp; / &nbsp;
+  <a href="mailto:sidgupt12@gmail.com">email</a>
+</p>
+
+<p align="center">
+  <sub>see you, space cowboy.</sub>
+</p>
